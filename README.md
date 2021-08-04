@@ -3,7 +3,7 @@ A macro for spamming in discord chats. (Do not use in public servers)
 
 Disclosure
 Software used - https://github.com/Pulover/PuloversMacroCreator (Privacy Policy and Terms and conditions for the use of their software still applies)
-Thw Use of the macro is for educational purposes only. Using this Macro to gain an unfair advantage over others while using discord bots are condemed.
+The Use of the macro is for educational purposes only. Using this Macro to gain an unfair advantage over others while using discord bots are condemed.
 
 Version - 1.0
 
