@@ -5,6 +5,7 @@ Disclosure
 Software used - https://github.com/Pulover/PuloversMacroCreator (Privacy Policy and Terms and conditions for the use of their software still applies)
 Thw Use of the macro is for educational purposes only. Using this Macro to gain an unfair advantage over others while using discord bots are condemed.
 
+Version - 1.0
 
 ****** THE USE OF THIS MACRO IS FOR EDUCATIONAL PURPOSES ONLY*****
 
@@ -17,5 +18,7 @@ Guide to start:-
 6. Now, a small window pops up    
 7. Have the Discord window displayed on your screen (in maximised window) , click the message area and press the blue play button in the small window to start the macro.
 8. To stop the loop press F8 (or fn + F8 on some laptops) 
+
+# Note : You will not be able to use any other programs whilst running this macro
 
 Hope This helps!
