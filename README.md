@@ -15,7 +15,7 @@ Guide to start:-
 4. Download the file from this repo.   
 5. Open the file using Pulover's Macro Creator and Hit the red dot
 6. Now, a small window pops up    
-7. Have the Discord window displayed on your screen (in maximised window)  and press the blue play button in the small window
+7. Have the Discord window displayed on your screen (in maximised window) , click the message area and press the blue play button in the small window to start the macro.
 8. To stop the loop press F8 (or fn + F8 on some laptops) 
 
 Hope This helps!
